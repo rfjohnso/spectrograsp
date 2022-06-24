@@ -1,0 +1,10 @@
+digital-rf
+sigmf
+joblib
+matplotlib
+numpy
+onnx
+onnxruntime
+pyqtgraph
+PySide6
+scipy

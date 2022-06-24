@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>./img/heig-vd-2020-reds.png</file>
+    <file>./img/armasuisse.png</file>
+  </qresource>
+</RCC>

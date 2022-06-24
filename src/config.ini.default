@@ -1,0 +1,20 @@
+[automatic_annotations]
+dt=4096
+threshold_f=-30
+threshold_mc=0.01
+threshold_t=-20
+
+[dir]
+last_digitalrf_dir=.
+last_onnx_inference_dir=.
+last_sigmf_dir=.
+
+[spectrogram]
+noverlap=@Invalid()
+nperseg=@Invalid()
+nttf=@Invalid()
+window=tukey
+
+[visualization]
+colormap=0
+colormaps=@Variant(\0\0\0\t\0\0\0\x5\0\0\0\x7f\0\0\0\x18PySide::PyObjectWrapper\0\0\0\0\x14\x80\x4\x95\t\0\0\0\0\0\0\0K&KFKS\x87\x94.\0\0\0\x7f\0\0\0\x18PySide::PyObjectWrapper\0\0\0\0\x14\x80\x4\x95\t\0\0\0\0\0\0\0K*K\x9dK\x8f\x87\x94.\0\0\0\x7f\0\0\0\x18PySide::PyObjectWrapper\0\0\0\0\x14\x80\x4\x95\t\0\0\0\0\0\0\0K\xe9K\xc4Kj\x87\x94.\0\0\0\x7f\0\0\0\x18PySide::PyObjectWrapper\0\0\0\0\x14\x80\x4\x95\t\0\0\0\0\0\0\0K\xf4K\xa2Ka\x87\x94.\0\0\0\x7f\0\0\0\x18PySide::PyObjectWrapper\0\0\0\0\x14\x80\x4\x95\t\0\0\0\0\0\0\0K\xe7KoKQ\x87\x94.), @Variant(\0\0\0\v\0\0\0\0)
